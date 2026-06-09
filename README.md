@@ -1,6 +1,6 @@
 # Weather Now
 
-a weather app i built for ict 211. you search a city and it shows the current weather and the next 5 days. uses the open-meteo api (its free, no api key needed).
+a weather app we built for ict 211. you search a city and it shows the current weather and the next 5 days. uses the open-meteo api (its free, no api key needed).
 
 ## how to run
 
